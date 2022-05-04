@@ -8,4 +8,5 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
+          WORLD: "world"
           MY_NAME: "Test"
