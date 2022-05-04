@@ -6,6 +6,9 @@ inputs:
   MY_NAME:
     description: "Who to greet"
     required: true
+    default: "Tesr"
+   WORLD:
+    required: True
     default: "World"
 
 runs:
