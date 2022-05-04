@@ -7,6 +7,10 @@ inputs:
     description: "What to do"
     required: true
     default: "World"
+    NAME:
+     description: "For testing purpose"
+     required: true
+     default: "Test"
 
 runs:
   using: "docker"
