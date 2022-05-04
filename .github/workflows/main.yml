@@ -9,3 +9,4 @@ jobs:
       - uses: ./action-a
         with:
           WORLD: "world"
+          NAME: "New_Name"
