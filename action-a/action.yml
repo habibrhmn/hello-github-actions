@@ -8,6 +8,7 @@ inputs:
     required: true
     default: "Test"
    WORLD:
+    description: "What to do"
     required: true
     default: "World"
 
